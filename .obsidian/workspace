@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/📄 Articles.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/📄 Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/📄 Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/📄 Articles.md"
               }
             }
           }
@@ -130,13 +130,13 @@
   },
   "active": "1232b22490e860b4",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/📄 Articles.md",
     "content/notes/config.md",
     "content/notes/custom Domain.md",
     "content/notes/editing.md",
     "content/notes/hosting.md",
     "content/notes/ignore notes.md",
-    "content/_index.md",
     "content/templates/post.md",
     "@Alves2012.md",
     "content/notes/updating.md"

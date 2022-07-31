@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "📄 Articles"
 ---
 
 [[@Alves2012]]
