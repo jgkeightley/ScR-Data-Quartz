@@ -1,5 +1,5 @@
 ---
-title: Modelf of Care for Shoulder Pain in Spinal Cord Injury: A Scoping Review
+title: Models of Care for Shoulder Pain in Spinal Cord Injury - A Scoping Review
 ---
 
 Thank you for visiting our data vault for our [Scoping Review](). 
