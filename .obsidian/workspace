@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "32e6ee7405ff49b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1232b22490e860b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b0ac3016e0c0023",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fea35651d07e4c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd50f09dbf2fdfb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1d875beca5a75ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da464b7dce8a914b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1748a62efbe0ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "48c32ecf8b8073f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175f4b3b4b7d4b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1b11606fe84a822",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "140dc96450341b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c16fc01f4d94b63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1232b22490e860b4",
+  "lastOpenFiles": [
+    "content/notes/📄 Articles.md",
+    "@Alves2012.md",
+    "content/templates/post.md",
+    "content/notes/updating.md",
+    "content/notes/showcase.md",
+    "content/notes/philosophy.md",
+    "content/notes/obsidian.md",
+    "content/notes/ignore notes.md",
+    "content/notes/hosting.md",
+    "content/notes/editing.md"
+  ]
+}
