@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/config.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -152,11 +152,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05dc21493a415478",
+  "active": "596193e4779b79b2",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/notes/config.md",
     "content/notes/editing.md",
+    "content/notes/config.md",
+    "content/_index.md",
     "content/notes/obsidian.md",
     "content/notes/setup.md",
     "content/notes/📄 Articles.md",
