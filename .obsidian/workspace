@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/📄 Articles.md",
+            "file": "content/notes/config.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "596193e4779b79b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/📄 Articles.md",
+                "file": "content/notes/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/📄 Articles.md",
+                "file": "content/notes/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/📄 Articles.md"
+                "file": "content/notes/config.md"
               }
             }
           }
@@ -131,8 +143,8 @@
   "active": "1232b22490e860b4",
   "lastOpenFiles": [
     "content/_index.md",
-    "content/notes/📄 Articles.md",
     "content/notes/config.md",
+    "content/notes/📄 Articles.md",
     "content/notes/custom Domain.md",
     "content/notes/editing.md",
     "content/notes/hosting.md",
