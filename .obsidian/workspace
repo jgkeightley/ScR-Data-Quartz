@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "content/notes/editing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05dc21493a415478",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "content/notes/config.md",
             "mode": "source",
             "source": false
@@ -140,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1232b22490e860b4",
+  "active": "05dc21493a415478",
   "lastOpenFiles": [
     "content/_index.md",
     "content/notes/config.md",
+    "content/notes/editing.md",
+    "content/notes/obsidian.md",
+    "content/notes/setup.md",
     "content/notes/📄 Articles.md",
     "content/notes/custom Domain.md",
-    "content/notes/editing.md",
     "content/notes/hosting.md",
     "content/notes/ignore notes.md",
-    "content/templates/post.md",
-    "@Alves2012.md",
-    "content/notes/updating.md"
+    "content/templates/post.md"
   ]
 }

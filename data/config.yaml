@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Jordan Keightley
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -6,19 +6,18 @@ enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/jgkeightley/ScR-Data-Quartz/tree/hugo/content
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A data vault for the results of our scoping review
 page_title:
-  "🪴 Quartz 3.2"
+  "Models of Care for Shoulder Pain in Spinal Cord Injury - A Scoping Review"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: #
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: #

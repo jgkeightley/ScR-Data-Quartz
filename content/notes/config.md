@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jordan Keightley
+name: Jacky Zhao
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -40,7 +40,7 @@ enableLatex: true
 # whether to enable single-page-app style rendering
 # this prevents flashes of unstyled content and improves
 # smoothness of Quartz. More info in issue #109 on GitHub
-enableSPA: false
+enableSPA: true
 
 # whether to render a footer
 enableFooter: true
@@ -64,14 +64,14 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "Models of Care for Shoulder Pain in Spinal Cord Injury - A Scoping Review"
+  "🪴 Quartz 3.2"
 
 # links to show in the footer
 links:
   - link_name: Twitter
-    link: #
+    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: #
+    link: https://github.com/jackyzha0
 ```
 
 ### Code Block Titles
