@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Themes/Management.md",
+            "file": "content/notes/Search Stratregy.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Themes/Management.md",
+                "file": "content/notes/Search Stratregy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Themes/Management.md",
+                "file": "content/notes/Search Stratregy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Themes/Management.md"
+                "file": "content/notes/Search Stratregy.md"
               }
             }
           }
@@ -140,13 +140,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05dc21493a415478",
+  "active": "bd50f09dbf2fdfb9",
   "lastOpenFiles": [
+    "content/notes/Themes/Management.md",
     "content/_index.md",
     "content/notes/editing.md",
-    "notes/Search Stratregy.md",
+    "content/notes/Search Stratregy.md",
     "content/notes/setup.md",
-    "content/notes/Themes/Management.md",
     "content/notes/Themes.md",
     "content/notes/Articles/@Brose2008.md",
     "content/notes/Articles/@Barber1991.md",
