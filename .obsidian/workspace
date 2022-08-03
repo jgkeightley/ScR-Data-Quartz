@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Search Stratregy.md",
+            "file": "content/notes/Themes/Management.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/editing.md",
+            "file": "content/notes/hosting.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Search Stratregy.md",
+                "file": "content/notes/Themes/Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Search Stratregy.md",
+                "file": "content/notes/Themes/Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Search Stratregy.md"
+                "file": "content/notes/Themes/Management.md"
               }
             }
           }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd50f09dbf2fdfb9",
+  "active": "05dc21493a415478",
   "lastOpenFiles": [
-    "content/notes/Themes/Management.md",
-    "content/_index.md",
+    "content/notes/hosting.md",
     "content/notes/editing.md",
+    "content/notes/Themes/Management.md",
     "content/notes/Search Stratregy.md",
+    "content/_index.md",
     "content/notes/setup.md",
     "content/notes/Themes.md",
     "content/notes/Articles/@Brose2008.md",
     "content/notes/Articles/@Barber1991.md",
-    "content/notes/Articles/@Azadvari2021.md",
-    "content/notes/Articles/@Apple2001.md"
+    "content/notes/Articles/@Azadvari2021.md"
   ]
 }
