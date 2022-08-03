@@ -6,8 +6,8 @@ Thank you for visiting our data vault for our [Scoping Review]().
 
 ## Contents
 1. [[notes/Articles|📄 Articles]]
-4. [[📚 Themes]]
-5. [[🔍 Search Strategy]]
+4. [[notes/Themes|📚 Themes]]
+5. [[notes/Search Stratregy|🔍 Search Strategy]]
 
 ### Related Links
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
