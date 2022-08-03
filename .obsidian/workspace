@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Articles/@Requejo2008.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/editing.md",
+            "file": "content/notes/Articles.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/editing.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/editing.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/editing.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "596193e4779b79b2",
+  "active": "05dc21493a415478",
   "lastOpenFiles": [
+    "content/notes/Articles.md",
+    "content/_index.md",
+    "content/notes/Articles/@Requejo2008.md",
+    "content/notes/editing.md",
     "content/notes/hosting.md",
     "content/notes/custom Domain.md",
     "content/notes/config.md",
-    "content/notes/Articles.md",
     "content/notes/Themes/Management.md",
     "content/notes/Themes/Injections.md",
-    "content/notes/Themes/Imaging.md",
-    "content/notes/Articles/@Alves2012.md",
-    "content/notes/Themes/Exercise.md",
-    "content/notes/Articles/@Apple1996.md"
+    "content/notes/Themes/Imaging.md"
   ]
 }
