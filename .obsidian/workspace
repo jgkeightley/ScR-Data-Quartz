@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/Themes.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Articles.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Themes.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "05dc21493a415478",
   "lastOpenFiles": [
-    "content/notes/Articles.md",
     "content/_index.md",
+    "content/notes/setup.md",
+    "content/notes/ignore notes.md",
+    "content/notes/custom Domain.md",
+    "content/notes/Articles.md",
+    "content/notes/Themes.md",
     "content/notes/Articles/@Requejo2008.md",
     "content/notes/editing.md",
     "content/notes/hosting.md",
-    "content/notes/custom Domain.md",
-    "content/notes/config.md",
-    "content/notes/Themes/Management.md",
-    "content/notes/Themes/Injections.md",
-    "content/notes/Themes/Imaging.md"
+    "content/notes/config.md"
   ]
 }
