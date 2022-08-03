@@ -1,5 +1,7 @@
 ---
-tags: theme, management
+title: "Management"
+tags: theme
+	management
 ---
 
 - [[notes/Articles/@Apple1996]]
