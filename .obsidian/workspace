@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/Articles/@Zlotolow2011.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Articles/@Zlotolow2011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Articles/@Zlotolow2011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Articles/@Zlotolow2011.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "05dc21493a415478",
   "lastOpenFiles": [
-    "content/notes/Articles.md",
-    "content/_index.md",
-    "content/notes/config.md",
-    "content/notes/editing.md",
-    "content/notes/obsidian.md",
-    "content/notes/setup.md",
-    "content/notes/custom Domain.md",
-    "content/notes/hosting.md",
-    "content/notes/ignore notes.md",
-    "content/templates/post.md"
+    "content/notes/Articles/@Wilbanks2016.md",
+    "content/notes/Articles/@Wilbanks2015.md",
+    "content/notes/Articles/@Wellisch2022.md",
+    "content/notes/Articles/@Vining2017.md",
+    "content/notes/Articles/@Vincent2019.md",
+    "content/notes/Articles/@Vincent2015.md",
+    "content/notes/Articles/@VanStraaten2017.md",
+    "content/notes/Articles/@VanStraaten2014.md",
+    "content/notes/Articles/@Uchikawa2009.md",
+    "content/notes/Articles/@Tweedy2017.md"
   ]
 }
