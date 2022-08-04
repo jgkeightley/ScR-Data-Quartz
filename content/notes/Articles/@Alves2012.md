@@ -8,9 +8,13 @@ Alves, A. P., Terrabuio Junior, A. A., Pimenta, C. J., Medina, G. I., Rimkus Cde
 
 ## General Information
 Country: [[../Countries/Brazil|Brazil]]
+
 Study Design: [[../Study Designs/Diagnostic Accuracy|Diagnostic Accuracy]]
+
 Sample Size: 9
+
 Percentage of Sample with SCI: 100%
+
 Model of Care: #diagnosis
 
 ## Management Themes
